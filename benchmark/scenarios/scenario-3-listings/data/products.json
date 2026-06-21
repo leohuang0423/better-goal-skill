@@ -1,0 +1,522 @@
+[
+  {
+    "id": "P001",
+    "brand": "Vela",
+    "category": "yoga mat",
+    "raw_title": "Vela yoga mat sand 350ml",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "sand",
+      "material": "bamboo",
+      "warranty_years": 2,
+      "weight_kg": 2.01
+    }
+  },
+  {
+    "id": "P002",
+    "brand": "Cedar&Co",
+    "category": "knife set",
+    "raw_title": "Cedar&Co knife set forest 1000ml",
+    "specs": {
+      "capacity_ml": 1000,
+      "color": "forest",
+      "material": "cork",
+      "warranty_years": 2,
+      "weight_kg": 2.41
+    }
+  },
+  {
+    "id": "P003",
+    "brand": "Acme",
+    "category": "yoga mat",
+    "raw_title": "Acme yoga mat black 1000ml",
+    "specs": {
+      "capacity_ml": 1000,
+      "color": "black",
+      "material": "aluminum",
+      "warranty_years": 5,
+      "weight_kg": 2.34
+    }
+  },
+  {
+    "id": "P004",
+    "brand": "Cedar&Co",
+    "category": "headphones",
+    "raw_title": "Cedar&Co headphones white 350ml",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "white",
+      "material": "cork",
+      "warranty_years": 5,
+      "weight_kg": 1.36
+    }
+  },
+  {
+    "id": "P005",
+    "brand": "Acme",
+    "category": "water bottle",
+    "raw_title": "Acme water bottle white 350ml",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "white",
+      "material": "stainless steel",
+      "warranty_years": 2,
+      "weight_kg": 1.83
+    }
+  },
+  {
+    "id": "P006",
+    "brand": "NorthPeak",
+    "category": "water bottle",
+    "raw_title": "NorthPeak water bottle sand 750ml",
+    "specs": {
+      "capacity_ml": 750,
+      "color": "sand",
+      "material": "cork",
+      "warranty_years": 5,
+      "weight_kg": 2.09
+    }
+  },
+  {
+    "id": "P007",
+    "brand": "Acme",
+    "category": "water bottle",
+    "raw_title": "Acme water bottle sand 500ml",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "sand",
+      "material": "cork",
+      "warranty_years": 5,
+      "weight_kg": 1.37
+    }
+  },
+  {
+    "id": "P008",
+    "brand": "Lumen",
+    "category": "water bottle",
+    "raw_title": "Lumen water bottle sand 750ml",
+    "specs": {
+      "capacity_ml": 750,
+      "color": "sand",
+      "material": "cork",
+      "warranty_years": 5,
+      "weight_kg": 1.31
+    }
+  },
+  {
+    "id": "P009",
+    "brand": "NorthPeak",
+    "category": "knife set",
+    "raw_title": "NorthPeak knife set forest 350ml",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "forest",
+      "material": "stainless steel",
+      "warranty_years": 2,
+      "weight_kg": 1.48
+    }
+  },
+  {
+    "id": "P010",
+    "brand": "Acme",
+    "category": "knife set",
+    "raw_title": "Acme knife set black 500ml",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "black",
+      "material": "cork",
+      "warranty_years": 2,
+      "weight_kg": 0.98
+    }
+  },
+  {
+    "id": "P011",
+    "brand": "Acme",
+    "category": "yoga mat",
+    "raw_title": "Acme yoga mat black 500ml",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "black",
+      "material": "cork",
+      "warranty_years": 5,
+      "weight_kg": 1.64
+    }
+  },
+  {
+    "id": "P012",
+    "brand": "NorthPeak",
+    "category": "knife set",
+    "raw_title": "NorthPeak knife set black 1000ml",
+    "specs": {
+      "capacity_ml": 1000,
+      "color": "black",
+      "material": "cork",
+      "warranty_years": 5,
+      "weight_kg": 1.45
+    }
+  },
+  {
+    "id": "P013",
+    "brand": "Lumen",
+    "category": "desk lamp",
+    "raw_title": "Lumen desk lamp black 500ml",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "black",
+      "material": "cork",
+      "warranty_years": 5,
+      "weight_kg": 1.19
+    }
+  },
+  {
+    "id": "P014",
+    "brand": "Vela",
+    "category": "water bottle",
+    "raw_title": "Vela water bottle sand 750ml",
+    "specs": {
+      "capacity_ml": 750,
+      "color": "sand",
+      "material": "bamboo",
+      "warranty_years": 1,
+      "weight_kg": 2.12
+    }
+  },
+  {
+    "id": "P015",
+    "brand": "NorthPeak",
+    "category": "desk lamp",
+    "raw_title": "NorthPeak desk lamp forest 1000ml",
+    "specs": {
+      "capacity_ml": 1000,
+      "color": "forest",
+      "material": "stainless steel",
+      "warranty_years": 2,
+      "weight_kg": 0.65
+    }
+  },
+  {
+    "id": "P016",
+    "brand": "Lumen",
+    "category": "water bottle",
+    "raw_title": "Lumen water bottle slate 500ml",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "slate",
+      "material": "recycled polyester",
+      "warranty_years": 5,
+      "weight_kg": 2.26
+    }
+  },
+  {
+    "id": "P017",
+    "brand": "Cedar&Co",
+    "category": "headphones",
+    "raw_title": "Cedar&Co headphones white 750ml",
+    "specs": {
+      "capacity_ml": 750,
+      "color": "white",
+      "material": "bamboo",
+      "warranty_years": 1,
+      "weight_kg": 1.75
+    }
+  },
+  {
+    "id": "P018",
+    "brand": "NorthPeak",
+    "category": "knife set",
+    "raw_title": "NorthPeak knife set sand 350ml",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "sand",
+      "material": "bamboo",
+      "warranty_years": 5,
+      "weight_kg": 2.21
+    }
+  },
+  {
+    "id": "P019",
+    "brand": "Lumen",
+    "category": "rain jacket",
+    "raw_title": "Lumen rain jacket sand 500ml",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "sand",
+      "material": "aluminum",
+      "warranty_years": 5,
+      "weight_kg": 2.42
+    }
+  },
+  {
+    "id": "P020",
+    "brand": "Lumen",
+    "category": "yoga mat",
+    "raw_title": "Lumen yoga mat forest 750ml",
+    "specs": {
+      "capacity_ml": 750,
+      "color": "forest",
+      "material": "recycled polyester",
+      "warranty_years": 1,
+      "weight_kg": 1.59
+    }
+  },
+  {
+    "id": "P021",
+    "brand": "Vela",
+    "category": "desk lamp",
+    "raw_title": "Vela desk lamp sand 350ml",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "sand",
+      "material": "aluminum",
+      "warranty_years": 5,
+      "weight_kg": 0.29
+    }
+  },
+  {
+    "id": "P022",
+    "brand": "NorthPeak",
+    "category": "water bottle",
+    "raw_title": "NorthPeak water bottle forest 750ml",
+    "specs": {
+      "capacity_ml": 750,
+      "color": "forest",
+      "material": "bamboo",
+      "warranty_years": 5,
+      "weight_kg": 0.4
+    }
+  },
+  {
+    "id": "P023",
+    "brand": "NorthPeak",
+    "category": "desk lamp",
+    "raw_title": "NorthPeak desk lamp slate 750ml",
+    "specs": {
+      "capacity_ml": 750,
+      "color": "slate",
+      "material": "cork",
+      "warranty_years": 1,
+      "weight_kg": 0.74
+    }
+  },
+  {
+    "id": "P024",
+    "brand": "Lumen",
+    "category": "yoga mat",
+    "raw_title": "Lumen yoga mat white 500ml",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "white",
+      "material": "aluminum",
+      "warranty_years": 1,
+      "weight_kg": 1.3
+    }
+  },
+  {
+    "id": "P025",
+    "brand": "Acme",
+    "category": "water bottle",
+    "raw_title": "Acme water bottle sand 350ml",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "sand",
+      "material": "stainless steel",
+      "warranty_years": 5,
+      "weight_kg": 2.38
+    }
+  },
+  {
+    "id": "P026",
+    "brand": "NorthPeak",
+    "category": "headphones",
+    "raw_title": "NorthPeak headphones white 1000ml",
+    "specs": {
+      "capacity_ml": 1000,
+      "color": "white",
+      "material": "bamboo",
+      "warranty_years": 1,
+      "weight_kg": 0.36
+    }
+  },
+  {
+    "id": "P027",
+    "brand": "Lumen",
+    "category": "backpack",
+    "raw_title": "Lumen backpack slate 1000ml",
+    "specs": {
+      "capacity_ml": 1000,
+      "color": "slate",
+      "material": "bamboo",
+      "warranty_years": 5,
+      "weight_kg": 0.33
+    }
+  },
+  {
+    "id": "P028",
+    "brand": "Cedar&Co",
+    "category": "knife set",
+    "raw_title": "Cedar&Co knife set white 500ml",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "white",
+      "material": "stainless steel",
+      "warranty_years": 5,
+      "weight_kg": 1.26
+    }
+  },
+  {
+    "id": "P029",
+    "brand": "Vela",
+    "category": "backpack",
+    "raw_title": "Vela backpack slate 350ml",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "slate",
+      "material": "recycled polyester",
+      "warranty_years": 1,
+      "weight_kg": 1.25
+    }
+  },
+  {
+    "id": "P030",
+    "brand": "Lumen",
+    "category": "backpack",
+    "raw_title": "Lumen backpack black 500ml",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "black",
+      "material": "bamboo",
+      "warranty_years": 1,
+      "weight_kg": 2.1
+    }
+  },
+  {
+    "id": "P031",
+    "brand": "Acme",
+    "category": "knife set",
+    "raw_title": "Acme knife set sand 1000ml",
+    "specs": {
+      "capacity_ml": 1000,
+      "color": "sand",
+      "material": "cork",
+      "warranty_years": 1,
+      "weight_kg": 2.37
+    }
+  },
+  {
+    "id": "P032",
+    "brand": "Vela",
+    "category": "rain jacket",
+    "raw_title": "Vela rain jacket black 350ml",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "black",
+      "material": "bamboo",
+      "warranty_years": 1,
+      "weight_kg": 1.92
+    }
+  },
+  {
+    "id": "P033",
+    "brand": "Acme",
+    "category": "backpack",
+    "raw_title": "Acme backpack sand 750ml",
+    "specs": {
+      "capacity_ml": 750,
+      "color": "sand",
+      "material": "cork",
+      "warranty_years": 5,
+      "weight_kg": 0.73
+    }
+  },
+  {
+    "id": "P034",
+    "brand": "Lumen",
+    "category": "headphones",
+    "raw_title": "Lumen headphones forest 1000ml",
+    "specs": {
+      "capacity_ml": 1000,
+      "color": "forest",
+      "material": "recycled polyester",
+      "warranty_years": 5,
+      "weight_kg": 1.7
+    }
+  },
+  {
+    "id": "P035",
+    "brand": "Vela",
+    "category": "yoga mat",
+    "raw_title": "Vela yoga mat sand 500ml",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "sand",
+      "material": "aluminum",
+      "warranty_years": 2,
+      "weight_kg": 1.7
+    }
+  },
+  {
+    "id": "P036",
+    "brand": "Vela",
+    "category": "yoga mat",
+    "raw_title": "Vela yoga mat black 1000ml",
+    "specs": {
+      "capacity_ml": 1000,
+      "color": "black",
+      "material": "recycled polyester",
+      "warranty_years": 1,
+      "weight_kg": 2.39
+    }
+  },
+  {
+    "id": "P037",
+    "brand": "Cedar&Co",
+    "category": "headphones",
+    "raw_title": "Cedar&Co headphones slate 750ml",
+    "specs": {
+      "capacity_ml": 750,
+      "color": "slate",
+      "material": "cork",
+      "warranty_years": 2,
+      "weight_kg": 1.78
+    }
+  },
+  {
+    "id": "P038",
+    "brand": "Cedar&Co",
+    "category": "rain jacket",
+    "raw_title": "Cedar&Co rain jacket sand 500ml",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "sand",
+      "material": "recycled polyester",
+      "warranty_years": 1,
+      "weight_kg": 1.35
+    }
+  },
+  {
+    "id": "P039",
+    "brand": "Acme",
+    "category": "backpack",
+    "raw_title": "Acme backpack black 350ml",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "black",
+      "material": "stainless steel",
+      "warranty_years": 2,
+      "weight_kg": 0.29
+    }
+  },
+  {
+    "id": "P040",
+    "brand": "Lumen",
+    "category": "backpack",
+    "raw_title": "Lumen backpack white 350ml",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "white",
+      "material": "aluminum",
+      "warranty_years": 2,
+      "weight_kg": 1.06
+    }
+  }
+]
