@@ -42,6 +42,28 @@ long-horizon ops task: a vague goal with **non-obvious hard constraints**.
 **Δ +24.1 and a `hard_pass` flip — the difference between "ships a policy violation"
 and "ships a verified, margin-positive plan."**
 
+### Replication — the decisive case is not a fluke (n=4)
+
+Because the whole headline rests on Scenario 1, we replicated it on **3 additional
+independent seeds** (fresh catalogs from `generate_data.py --seed-offset`), same A/B
+protocol. Regenerate with `python3 benchmark/score_s1_multiseed.py`:
+
+| Instance | Control pass | Control score | Treatment pass | Treatment score | Δ |
+|---|:---:|:---:|:---:|:---:|:---:|
+| canonical | ❌ | 74.9 | ✅ | 99.0 | +24.1 |
+| seed 1 | ❌ | 74.8 | ✅ | 98.3 | +23.5 |
+| seed 2 | ❌ | 74.9 | ✅ | 98.0 | +23.1 |
+| seed 3 | ❌ | 75.0 | ✅ | 98.0 | +23.0 |
+| **mean / rate** | **0 / 4** | **74.9** | **4 / 4** | **98.3** | **+23.4** |
+
+The effect is consistent and tight (control 74.8–75.0, treatment 98.0–99.0). In
+**every** replicate the no-skill arm independently converged on the same mistake —
+cut prices to chase competitors, no opportunistic raises — eroding blended margin
+and (on deep undercuts) breaching the ±15% move cap, while *believing it had
+protected margin*. In **every** replicate the skill arm discovered the grader, made
+it the stop condition, and produced a margin-positive, policy-clean plan. The
+failure is structural to the naive approach, not a single unlucky run.
+
 ## The honest ties — Scenarios 2 & 3
 
 On the two well-bounded scenarios, **both arms scored at ceiling** (99.6 and 100.0).
@@ -72,9 +94,10 @@ exactly where naive execution silently breaks policy.
 **Doesn't show:** A uniform lift on every task. A strong model with grader access
 can already one-shot well-scoped work; the skill's measured value is reliability and
 the prevention of silent constraint violations, not beating an oracle on easy cases.
-n=1 per cell on synthetic (if realistic) data — directional evidence on a
-reproducible harness, not a statistical claim. See `harness.md` for threats to
-validity.
+The decisive scenario is replicated across **4 seeds** (0/4 vs 4/4 hard-pass); the
+two tied scenarios remain n=1 each. Synthetic (if realistic) data — strong
+directional evidence on a reproducible harness, still short of a large-sample
+statistical claim. See `harness.md` for threats to validity.
 
 ## Reproduce
 

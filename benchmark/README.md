@@ -14,9 +14,11 @@ variable is whether the agent follows the `goal-loop` skill.
 
 The whole gap is one scenario — repricing — where the naive run *declared success*
 while breaching a ±15% price-move cap on 20 SKUs and eroding margin. The skill
-caught it because it made the grader the stop condition. Full write-up:
-[`results.md`](results.md). It's an honest result: the other two scenarios tie at
-ceiling because the base model is strong and both arms found the grader.
+caught it because it made the grader the stop condition. That scenario is
+**replicated across 4 independent seeds: control 0/4 pass, treatment 4/4 pass,
+Δ+23.4** (`score_s1_multiseed.py`). Full write-up: [`results.md`](results.md). It's
+an honest result: the other two scenarios tie at ceiling because the base model is
+strong and both arms found the grader.
 
 ## Layout
 

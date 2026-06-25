@@ -42,9 +42,12 @@ python3 benchmark/score_all.py                # prints the comparison table
   tasks where the control agent happens to discover and use the grader, the gap
   closes — and the results say so. The skill's edge is largest where a constraint
   is non-obvious (S1) and in *process reliability*, not in beating an oracle.
-- **n=1 per cell.** Single runs, not averaged over seeds/models. Treat the numbers
-  as a directional demonstration on a reproducible harness, not a statistical claim.
-  Re-run with more seeds (`generate_data.py` seeds are per-scenario) to harden it.
+- **Sample size.** The decisive scenario (S1 repricing) is replicated across **4
+  independent seeds** — 0/4 vs 4/4 hard-pass, Δ+23.4, tight variance (see
+  `results.md` and `score_s1_multiseed.py`). The two tied scenarios (S2/S3) are
+  still n=1 each. So the headline rests on a replicated effect, but this remains a
+  small-sample demonstration, not a large-N statistical claim. Generate more with
+  `generate_data.py --seed-offset N --dest benchmark/seeds/seedX`.
 - **Synthetic data.** Modeled on public e-commerce-agent benchmarks (EcomBench,
   RetailBench, YC-Bench, EcoGym) but not real merchant data. The *mechanics*
   (constraints, graders) are realistic; the rows are generated.

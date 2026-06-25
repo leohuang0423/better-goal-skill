@@ -64,9 +64,10 @@ model, same fuzzy prompt, same file access, skill vs. no skill:
 | Avg score (0–100) | 91.5 | **99.5** |
 
 The gap concentrates on the scenario with a non-obvious constraint (repricing:
-**74.9 FAIL → 99.0 PASS, +24.1**); the two well-bounded scenarios tie at ceiling
-because the base model is strong and both arms found the grader. We report that
-honestly. Full analysis + how to reproduce: [`benchmark/`](benchmark/).
+**74.9 FAIL → 99.0 PASS**), which **replicates across 4 independent seeds —
+control 0/4 pass, treatment 4/4 pass, Δ+23.4**. The two well-bounded scenarios tie
+at ceiling because the base model is strong and both arms found the grader. We
+report that honestly. Full analysis + how to reproduce: [`benchmark/`](benchmark/).
 
 ## Repository layout
 
