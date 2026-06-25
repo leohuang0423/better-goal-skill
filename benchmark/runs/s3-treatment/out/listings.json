@@ -1,0 +1,802 @@
+[
+  {
+    "id": "P001",
+    "title": "Vela Yoga Mat - Sand Bamboo, 350 ml",
+    "bullets": [
+      "Crafted from bamboo in a sand finish for a clean, durable look.",
+      "350 ml capacity sized for everyday use.",
+      "Backed by a 2-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 2.01 kg, easy to carry and store.",
+      "Thoughtfully designed by Vela for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Vela sand bamboo yoga mat with 350 ml capacity and a 2-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "sand",
+      "material": "bamboo",
+      "warranty_years": 2,
+      "weight_kg": 2.01
+    }
+  },
+  {
+    "id": "P002",
+    "title": "Cedar&Co Knife Set - Forest Cork, 1000 ml",
+    "bullets": [
+      "Crafted from cork in a forest finish for a clean, durable look.",
+      "1000 ml capacity sized for everyday use.",
+      "Backed by a 2-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 2.41 kg, easy to carry and store.",
+      "Thoughtfully designed by Cedar&Co for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Cedar&Co forest cork knife set with 1000 ml capacity and a 2-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 1000,
+      "color": "forest",
+      "material": "cork",
+      "warranty_years": 2,
+      "weight_kg": 2.41
+    }
+  },
+  {
+    "id": "P003",
+    "title": "Acme Yoga Mat - Black Aluminum, 1000 ml",
+    "bullets": [
+      "Crafted from aluminum in a black finish for a clean, durable look.",
+      "1000 ml capacity sized for everyday use.",
+      "Backed by a 5-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 2.34 kg, easy to carry and store.",
+      "Thoughtfully designed by Acme for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Acme black aluminum yoga mat with 1000 ml capacity and a 5-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 1000,
+      "color": "black",
+      "material": "aluminum",
+      "warranty_years": 5,
+      "weight_kg": 2.34
+    }
+  },
+  {
+    "id": "P004",
+    "title": "Cedar&Co Headphones - White Cork, 350 ml",
+    "bullets": [
+      "Crafted from cork in a white finish for a clean, durable look.",
+      "350 ml capacity sized for everyday use.",
+      "Backed by a 5-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.36 kg, easy to carry and store.",
+      "Thoughtfully designed by Cedar&Co for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Cedar&Co white cork headphones with 350 ml capacity and a 5-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "white",
+      "material": "cork",
+      "warranty_years": 5,
+      "weight_kg": 1.36
+    }
+  },
+  {
+    "id": "P005",
+    "title": "Acme Water Bottle - White Stainless Steel, 350 ml",
+    "bullets": [
+      "Crafted from stainless steel in a white finish for a clean, durable look.",
+      "350 ml capacity sized for everyday use.",
+      "Backed by a 2-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.83 kg, easy to carry and store.",
+      "Thoughtfully designed by Acme for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Acme white stainless steel water bottle with 350 ml capacity and a 2-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "white",
+      "material": "stainless steel",
+      "warranty_years": 2,
+      "weight_kg": 1.83
+    }
+  },
+  {
+    "id": "P006",
+    "title": "NorthPeak Water Bottle - Sand Cork, 750 ml",
+    "bullets": [
+      "Crafted from cork in a sand finish for a clean, durable look.",
+      "750 ml capacity sized for everyday use.",
+      "Backed by a 5-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 2.09 kg, easy to carry and store.",
+      "Thoughtfully designed by NorthPeak for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "NorthPeak sand cork water bottle with 750 ml capacity and a 5-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 750,
+      "color": "sand",
+      "material": "cork",
+      "warranty_years": 5,
+      "weight_kg": 2.09
+    }
+  },
+  {
+    "id": "P007",
+    "title": "Acme Water Bottle - Sand Cork, 500 ml",
+    "bullets": [
+      "Crafted from cork in a sand finish for a clean, durable look.",
+      "500 ml capacity sized for everyday use.",
+      "Backed by a 5-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.37 kg, easy to carry and store.",
+      "Thoughtfully designed by Acme for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Acme sand cork water bottle with 500 ml capacity and a 5-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "sand",
+      "material": "cork",
+      "warranty_years": 5,
+      "weight_kg": 1.37
+    }
+  },
+  {
+    "id": "P008",
+    "title": "Lumen Water Bottle - Sand Cork, 750 ml",
+    "bullets": [
+      "Crafted from cork in a sand finish for a clean, durable look.",
+      "750 ml capacity sized for everyday use.",
+      "Backed by a 5-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.31 kg, easy to carry and store.",
+      "Thoughtfully designed by Lumen for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Lumen sand cork water bottle with 750 ml capacity and a 5-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 750,
+      "color": "sand",
+      "material": "cork",
+      "warranty_years": 5,
+      "weight_kg": 1.31
+    }
+  },
+  {
+    "id": "P009",
+    "title": "NorthPeak Knife Set - Forest Stainless Steel, 350 ml",
+    "bullets": [
+      "Crafted from stainless steel in a forest finish for a clean, durable look.",
+      "350 ml capacity sized for everyday use.",
+      "Backed by a 2-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.48 kg, easy to carry and store.",
+      "Thoughtfully designed by NorthPeak for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "NorthPeak forest stainless steel knife set with 350 ml capacity and a 2-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "forest",
+      "material": "stainless steel",
+      "warranty_years": 2,
+      "weight_kg": 1.48
+    }
+  },
+  {
+    "id": "P010",
+    "title": "Acme Knife Set - Black Cork, 500 ml",
+    "bullets": [
+      "Crafted from cork in a black finish for a clean, durable look.",
+      "500 ml capacity sized for everyday use.",
+      "Backed by a 2-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 0.98 kg, easy to carry and store.",
+      "Thoughtfully designed by Acme for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Acme black cork knife set with 500 ml capacity and a 2-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "black",
+      "material": "cork",
+      "warranty_years": 2,
+      "weight_kg": 0.98
+    }
+  },
+  {
+    "id": "P011",
+    "title": "Acme Yoga Mat - Black Cork, 500 ml",
+    "bullets": [
+      "Crafted from cork in a black finish for a clean, durable look.",
+      "500 ml capacity sized for everyday use.",
+      "Backed by a 5-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.64 kg, easy to carry and store.",
+      "Thoughtfully designed by Acme for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Acme black cork yoga mat with 500 ml capacity and a 5-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "black",
+      "material": "cork",
+      "warranty_years": 5,
+      "weight_kg": 1.64
+    }
+  },
+  {
+    "id": "P012",
+    "title": "NorthPeak Knife Set - Black Cork, 1000 ml",
+    "bullets": [
+      "Crafted from cork in a black finish for a clean, durable look.",
+      "1000 ml capacity sized for everyday use.",
+      "Backed by a 5-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.45 kg, easy to carry and store.",
+      "Thoughtfully designed by NorthPeak for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "NorthPeak black cork knife set with 1000 ml capacity and a 5-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 1000,
+      "color": "black",
+      "material": "cork",
+      "warranty_years": 5,
+      "weight_kg": 1.45
+    }
+  },
+  {
+    "id": "P013",
+    "title": "Lumen Desk Lamp - Black Cork, 500 ml",
+    "bullets": [
+      "Crafted from cork in a black finish for a clean, durable look.",
+      "500 ml capacity sized for everyday use.",
+      "Backed by a 5-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.19 kg, easy to carry and store.",
+      "Thoughtfully designed by Lumen for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Lumen black cork desk lamp with 500 ml capacity and a 5-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "black",
+      "material": "cork",
+      "warranty_years": 5,
+      "weight_kg": 1.19
+    }
+  },
+  {
+    "id": "P014",
+    "title": "Vela Water Bottle - Sand Bamboo, 750 ml",
+    "bullets": [
+      "Crafted from bamboo in a sand finish for a clean, durable look.",
+      "750 ml capacity sized for everyday use.",
+      "Backed by a 1-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 2.12 kg, easy to carry and store.",
+      "Thoughtfully designed by Vela for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Vela sand bamboo water bottle with 750 ml capacity and a 1-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 750,
+      "color": "sand",
+      "material": "bamboo",
+      "warranty_years": 1,
+      "weight_kg": 2.12
+    }
+  },
+  {
+    "id": "P015",
+    "title": "NorthPeak Desk Lamp - Forest Stainless Steel, 1000 ml",
+    "bullets": [
+      "Crafted from stainless steel in a forest finish for a clean, durable look.",
+      "1000 ml capacity sized for everyday use.",
+      "Backed by a 2-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 0.65 kg, easy to carry and store.",
+      "Thoughtfully designed by NorthPeak for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "NorthPeak forest stainless steel desk lamp with 1000 ml capacity and a 2-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 1000,
+      "color": "forest",
+      "material": "stainless steel",
+      "warranty_years": 2,
+      "weight_kg": 0.65
+    }
+  },
+  {
+    "id": "P016",
+    "title": "Lumen Water Bottle - Slate Recycled Polyester, 500 ml",
+    "bullets": [
+      "Crafted from recycled polyester in a slate finish for a clean, durable look.",
+      "500 ml capacity sized for everyday use.",
+      "Backed by a 5-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 2.26 kg, easy to carry and store.",
+      "Thoughtfully designed by Lumen for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Lumen slate recycled polyester water bottle with 500 ml capacity and a 5-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "slate",
+      "material": "recycled polyester",
+      "warranty_years": 5,
+      "weight_kg": 2.26
+    }
+  },
+  {
+    "id": "P017",
+    "title": "Cedar&Co Headphones - White Bamboo, 750 ml",
+    "bullets": [
+      "Crafted from bamboo in a white finish for a clean, durable look.",
+      "750 ml capacity sized for everyday use.",
+      "Backed by a 1-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.75 kg, easy to carry and store.",
+      "Thoughtfully designed by Cedar&Co for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Cedar&Co white bamboo headphones with 750 ml capacity and a 1-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 750,
+      "color": "white",
+      "material": "bamboo",
+      "warranty_years": 1,
+      "weight_kg": 1.75
+    }
+  },
+  {
+    "id": "P018",
+    "title": "NorthPeak Knife Set - Sand Bamboo, 350 ml",
+    "bullets": [
+      "Crafted from bamboo in a sand finish for a clean, durable look.",
+      "350 ml capacity sized for everyday use.",
+      "Backed by a 5-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 2.21 kg, easy to carry and store.",
+      "Thoughtfully designed by NorthPeak for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "NorthPeak sand bamboo knife set with 350 ml capacity and a 5-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "sand",
+      "material": "bamboo",
+      "warranty_years": 5,
+      "weight_kg": 2.21
+    }
+  },
+  {
+    "id": "P019",
+    "title": "Lumen Rain Jacket - Sand Aluminum, 500 ml",
+    "bullets": [
+      "Crafted from aluminum in a sand finish for a clean, durable look.",
+      "500 ml capacity sized for everyday use.",
+      "Backed by a 5-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 2.42 kg, easy to carry and store.",
+      "Thoughtfully designed by Lumen for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Lumen sand aluminum rain jacket with 500 ml capacity and a 5-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "sand",
+      "material": "aluminum",
+      "warranty_years": 5,
+      "weight_kg": 2.42
+    }
+  },
+  {
+    "id": "P020",
+    "title": "Lumen Yoga Mat - Forest Recycled Polyester, 750 ml",
+    "bullets": [
+      "Crafted from recycled polyester in a forest finish for a clean, durable look.",
+      "750 ml capacity sized for everyday use.",
+      "Backed by a 1-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.59 kg, easy to carry and store.",
+      "Thoughtfully designed by Lumen for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Lumen forest recycled polyester yoga mat with 750 ml capacity and a 1-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 750,
+      "color": "forest",
+      "material": "recycled polyester",
+      "warranty_years": 1,
+      "weight_kg": 1.59
+    }
+  },
+  {
+    "id": "P021",
+    "title": "Vela Desk Lamp - Sand Aluminum, 350 ml",
+    "bullets": [
+      "Crafted from aluminum in a sand finish for a clean, durable look.",
+      "350 ml capacity sized for everyday use.",
+      "Backed by a 5-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 0.29 kg, easy to carry and store.",
+      "Thoughtfully designed by Vela for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Vela sand aluminum desk lamp with 350 ml capacity and a 5-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "sand",
+      "material": "aluminum",
+      "warranty_years": 5,
+      "weight_kg": 0.29
+    }
+  },
+  {
+    "id": "P022",
+    "title": "NorthPeak Water Bottle - Forest Bamboo, 750 ml",
+    "bullets": [
+      "Crafted from bamboo in a forest finish for a clean, durable look.",
+      "750 ml capacity sized for everyday use.",
+      "Backed by a 5-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 0.4 kg, easy to carry and store.",
+      "Thoughtfully designed by NorthPeak for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "NorthPeak forest bamboo water bottle with 750 ml capacity and a 5-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 750,
+      "color": "forest",
+      "material": "bamboo",
+      "warranty_years": 5,
+      "weight_kg": 0.4
+    }
+  },
+  {
+    "id": "P023",
+    "title": "NorthPeak Desk Lamp - Slate Cork, 750 ml",
+    "bullets": [
+      "Crafted from cork in a slate finish for a clean, durable look.",
+      "750 ml capacity sized for everyday use.",
+      "Backed by a 1-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 0.74 kg, easy to carry and store.",
+      "Thoughtfully designed by NorthPeak for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "NorthPeak slate cork desk lamp with 750 ml capacity and a 1-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 750,
+      "color": "slate",
+      "material": "cork",
+      "warranty_years": 1,
+      "weight_kg": 0.74
+    }
+  },
+  {
+    "id": "P024",
+    "title": "Lumen Yoga Mat - White Aluminum, 500 ml",
+    "bullets": [
+      "Crafted from aluminum in a white finish for a clean, durable look.",
+      "500 ml capacity sized for everyday use.",
+      "Backed by a 1-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.3 kg, easy to carry and store.",
+      "Thoughtfully designed by Lumen for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Lumen white aluminum yoga mat with 500 ml capacity and a 1-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "white",
+      "material": "aluminum",
+      "warranty_years": 1,
+      "weight_kg": 1.3
+    }
+  },
+  {
+    "id": "P025",
+    "title": "Acme Water Bottle - Sand Stainless Steel, 350 ml",
+    "bullets": [
+      "Crafted from stainless steel in a sand finish for a clean, durable look.",
+      "350 ml capacity sized for everyday use.",
+      "Backed by a 5-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 2.38 kg, easy to carry and store.",
+      "Thoughtfully designed by Acme for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Acme sand stainless steel water bottle with 350 ml capacity and a 5-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "sand",
+      "material": "stainless steel",
+      "warranty_years": 5,
+      "weight_kg": 2.38
+    }
+  },
+  {
+    "id": "P026",
+    "title": "NorthPeak Headphones - White Bamboo, 1000 ml",
+    "bullets": [
+      "Crafted from bamboo in a white finish for a clean, durable look.",
+      "1000 ml capacity sized for everyday use.",
+      "Backed by a 1-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 0.36 kg, easy to carry and store.",
+      "Thoughtfully designed by NorthPeak for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "NorthPeak white bamboo headphones with 1000 ml capacity and a 1-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 1000,
+      "color": "white",
+      "material": "bamboo",
+      "warranty_years": 1,
+      "weight_kg": 0.36
+    }
+  },
+  {
+    "id": "P027",
+    "title": "Lumen Backpack - Slate Bamboo, 1000 ml",
+    "bullets": [
+      "Crafted from bamboo in a slate finish for a clean, durable look.",
+      "1000 ml capacity sized for everyday use.",
+      "Backed by a 5-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 0.33 kg, easy to carry and store.",
+      "Thoughtfully designed by Lumen for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Lumen slate bamboo backpack with 1000 ml capacity and a 5-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 1000,
+      "color": "slate",
+      "material": "bamboo",
+      "warranty_years": 5,
+      "weight_kg": 0.33
+    }
+  },
+  {
+    "id": "P028",
+    "title": "Cedar&Co Knife Set - White Stainless Steel, 500 ml",
+    "bullets": [
+      "Crafted from stainless steel in a white finish for a clean, durable look.",
+      "500 ml capacity sized for everyday use.",
+      "Backed by a 5-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.26 kg, easy to carry and store.",
+      "Thoughtfully designed by Cedar&Co for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Cedar&Co white stainless steel knife set with 500 ml capacity and a 5-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "white",
+      "material": "stainless steel",
+      "warranty_years": 5,
+      "weight_kg": 1.26
+    }
+  },
+  {
+    "id": "P029",
+    "title": "Vela Backpack - Slate Recycled Polyester, 350 ml",
+    "bullets": [
+      "Crafted from recycled polyester in a slate finish for a clean, durable look.",
+      "350 ml capacity sized for everyday use.",
+      "Backed by a 1-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.25 kg, easy to carry and store.",
+      "Thoughtfully designed by Vela for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Vela slate recycled polyester backpack with 350 ml capacity and a 1-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "slate",
+      "material": "recycled polyester",
+      "warranty_years": 1,
+      "weight_kg": 1.25
+    }
+  },
+  {
+    "id": "P030",
+    "title": "Lumen Backpack - Black Bamboo, 500 ml",
+    "bullets": [
+      "Crafted from bamboo in a black finish for a clean, durable look.",
+      "500 ml capacity sized for everyday use.",
+      "Backed by a 1-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 2.1 kg, easy to carry and store.",
+      "Thoughtfully designed by Lumen for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Lumen black bamboo backpack with 500 ml capacity and a 1-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "black",
+      "material": "bamboo",
+      "warranty_years": 1,
+      "weight_kg": 2.1
+    }
+  },
+  {
+    "id": "P031",
+    "title": "Acme Knife Set - Sand Cork, 1000 ml",
+    "bullets": [
+      "Crafted from cork in a sand finish for a clean, durable look.",
+      "1000 ml capacity sized for everyday use.",
+      "Backed by a 1-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 2.37 kg, easy to carry and store.",
+      "Thoughtfully designed by Acme for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Acme sand cork knife set with 1000 ml capacity and a 1-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 1000,
+      "color": "sand",
+      "material": "cork",
+      "warranty_years": 1,
+      "weight_kg": 2.37
+    }
+  },
+  {
+    "id": "P032",
+    "title": "Vela Rain Jacket - Black Bamboo, 350 ml",
+    "bullets": [
+      "Crafted from bamboo in a black finish for a clean, durable look.",
+      "350 ml capacity sized for everyday use.",
+      "Backed by a 1-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.92 kg, easy to carry and store.",
+      "Thoughtfully designed by Vela for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Vela black bamboo rain jacket with 350 ml capacity and a 1-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "black",
+      "material": "bamboo",
+      "warranty_years": 1,
+      "weight_kg": 1.92
+    }
+  },
+  {
+    "id": "P033",
+    "title": "Acme Backpack - Sand Cork, 750 ml",
+    "bullets": [
+      "Crafted from cork in a sand finish for a clean, durable look.",
+      "750 ml capacity sized for everyday use.",
+      "Backed by a 5-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 0.73 kg, easy to carry and store.",
+      "Thoughtfully designed by Acme for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Acme sand cork backpack with 750 ml capacity and a 5-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 750,
+      "color": "sand",
+      "material": "cork",
+      "warranty_years": 5,
+      "weight_kg": 0.73
+    }
+  },
+  {
+    "id": "P034",
+    "title": "Lumen Headphones - Forest Recycled Polyester, 1000 ml",
+    "bullets": [
+      "Crafted from recycled polyester in a forest finish for a clean, durable look.",
+      "1000 ml capacity sized for everyday use.",
+      "Backed by a 5-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.7 kg, easy to carry and store.",
+      "Thoughtfully designed by Lumen for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Lumen forest recycled polyester headphones with 1000 ml capacity and a 5-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 1000,
+      "color": "forest",
+      "material": "recycled polyester",
+      "warranty_years": 5,
+      "weight_kg": 1.7
+    }
+  },
+  {
+    "id": "P035",
+    "title": "Vela Yoga Mat - Sand Aluminum, 500 ml",
+    "bullets": [
+      "Crafted from aluminum in a sand finish for a clean, durable look.",
+      "500 ml capacity sized for everyday use.",
+      "Backed by a 2-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.7 kg, easy to carry and store.",
+      "Thoughtfully designed by Vela for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Vela sand aluminum yoga mat with 500 ml capacity and a 2-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "sand",
+      "material": "aluminum",
+      "warranty_years": 2,
+      "weight_kg": 1.7
+    }
+  },
+  {
+    "id": "P036",
+    "title": "Vela Yoga Mat - Black Recycled Polyester, 1000 ml",
+    "bullets": [
+      "Crafted from recycled polyester in a black finish for a clean, durable look.",
+      "1000 ml capacity sized for everyday use.",
+      "Backed by a 1-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 2.39 kg, easy to carry and store.",
+      "Thoughtfully designed by Vela for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Vela black recycled polyester yoga mat with 1000 ml capacity and a 1-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 1000,
+      "color": "black",
+      "material": "recycled polyester",
+      "warranty_years": 1,
+      "weight_kg": 2.39
+    }
+  },
+  {
+    "id": "P037",
+    "title": "Cedar&Co Headphones - Slate Cork, 750 ml",
+    "bullets": [
+      "Crafted from cork in a slate finish for a clean, durable look.",
+      "750 ml capacity sized for everyday use.",
+      "Backed by a 2-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.78 kg, easy to carry and store.",
+      "Thoughtfully designed by Cedar&Co for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Cedar&Co slate cork headphones with 750 ml capacity and a 2-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 750,
+      "color": "slate",
+      "material": "cork",
+      "warranty_years": 2,
+      "weight_kg": 1.78
+    }
+  },
+  {
+    "id": "P038",
+    "title": "Cedar&Co Rain Jacket - Sand Recycled Polyester, 500 ml",
+    "bullets": [
+      "Crafted from recycled polyester in a sand finish for a clean, durable look.",
+      "500 ml capacity sized for everyday use.",
+      "Backed by a 1-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.35 kg, easy to carry and store.",
+      "Thoughtfully designed by Cedar&Co for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Cedar&Co sand recycled polyester rain jacket with 500 ml capacity and a 1-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 500,
+      "color": "sand",
+      "material": "recycled polyester",
+      "warranty_years": 1,
+      "weight_kg": 1.35
+    }
+  },
+  {
+    "id": "P039",
+    "title": "Acme Backpack - Black Stainless Steel, 350 ml",
+    "bullets": [
+      "Crafted from stainless steel in a black finish for a clean, durable look.",
+      "350 ml capacity sized for everyday use.",
+      "Backed by a 2-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 0.29 kg, easy to carry and store.",
+      "Thoughtfully designed by Acme for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Acme black stainless steel backpack with 350 ml capacity and a 2-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "black",
+      "material": "stainless steel",
+      "warranty_years": 2,
+      "weight_kg": 0.29
+    }
+  },
+  {
+    "id": "P040",
+    "title": "Lumen Backpack - White Aluminum, 350 ml",
+    "bullets": [
+      "Crafted from aluminum in a white finish for a clean, durable look.",
+      "350 ml capacity sized for everyday use.",
+      "Backed by a 2-year manufacturer warranty for peace of mind.",
+      "Lightweight build at about 1.06 kg, easy to carry and store.",
+      "Thoughtfully designed by Lumen for reliable daily performance.",
+      "Marketplace-compliant listing with honest, accurate specifications."
+    ],
+    "meta_description": "Lumen white aluminum backpack with 350 ml capacity and a 2-year warranty. Durable, lightweight, and built for daily use.",
+    "specs": {
+      "capacity_ml": 350,
+      "color": "white",
+      "material": "aluminum",
+      "warranty_years": 2,
+      "weight_kg": 1.06
+    }
+  }
+]
