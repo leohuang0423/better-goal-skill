@@ -2,9 +2,12 @@
 """Deterministic synthetic data generator for the three e-commerce benchmark
 scenarios. Seeded so the benchmark is fully reproducible: same data every run.
 
-Usage: python benchmark/generate_data.py
-Writes CSV/JSON fixtures under benchmark/scenarios/*/data/.
+Usage:
+  python benchmark/generate_data.py                  # canonical fixtures
+  python benchmark/generate_data.py --seed-offset 100 --dest benchmark/seeds/seed1
+      # independent variant under a different root (for multi-seed hardening)
 """
+import argparse
 import csv
 import json
 import os
@@ -22,9 +25,9 @@ def ensure(p):
 # ---------------------------------------------------------------- Scenario 1
 # Catalog repricing: each SKU has cost, current price, MAP floor, competitor
 # price, 30-day units, and a hold flag.
-def gen_repricing(seed=11):
+def gen_repricing(seed=11, root=SC):
     rng = random.Random(seed)
-    d = ensure(os.path.join(SC, "scenario-1-repricing", "data"))
+    d = ensure(os.path.join(root, "scenario-1-repricing", "data"))
     rows = []
     for i in range(1, 201):
         cost = round(rng.uniform(4, 80), 2)
@@ -55,9 +58,9 @@ def gen_repricing(seed=11):
 # Replenishment: per-SKU on-hand, in-transit, lead-time, daily demand stats,
 # MOQ, pack size, unit cost, and a budget cap. Agent must produce PO quantities
 # that avoid stockouts over the lead time + review period without overspending.
-def gen_replenishment(seed=23):
+def gen_replenishment(seed=23, root=SC):
     rng = random.Random(seed)
-    d = ensure(os.path.join(SC, "scenario-2-replenishment", "data"))
+    d = ensure(os.path.join(root, "scenario-2-replenishment", "data"))
     rows = []
     for i in range(1, 121):
         demand = round(max(0.2, rng.gauss(8, 6)), 2)           # units/day
@@ -97,9 +100,9 @@ def gen_replenishment(seed=23):
 # Listing optimization: raw product records the agent must rewrite into compliant
 # listings (title <=80 chars, >=5 bullets, meta description, no banned claims,
 # must preserve given factual specs).
-def gen_listings(seed=37):
+def gen_listings(seed=37, root=SC):
     rng = random.Random(seed)
-    d = ensure(os.path.join(SC, "scenario-3-listings", "data"))
+    d = ensure(os.path.join(root, "scenario-3-listings", "data"))
     brands = ["Acme", "NorthPeak", "Lumen", "Cedar&Co", "Vela"]
     cats = ["water bottle", "yoga mat", "desk lamp", "backpack", "knife set",
             "headphones", "coffee grinder", "rain jacket"]
@@ -139,9 +142,19 @@ def gen_listings(seed=37):
 
 
 if __name__ == "__main__":
-    n1 = gen_repricing()
-    n2 = gen_replenishment()
-    n3 = gen_listings()
-    print(f"scenario-1-repricing: {n1} SKUs")
-    print(f"scenario-2-replenishment: {n2} SKUs")
-    print(f"scenario-3-listings: {n3} products")
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--seed-offset", type=int, default=0,
+                    help="added to each scenario's base seed for an independent variant")
+    ap.add_argument("--dest", default=SC,
+                    help="root dir to write scenario-*/data under (default: canonical)")
+    ap.add_argument("--only", choices=["1", "2", "3"], action="append",
+                    help="generate only these scenarios (repeatable)")
+    a = ap.parse_args()
+    o, root = a.seed_offset, a.dest
+    want = set(a.only) if a.only else {"1", "2", "3"}
+    if "1" in want:
+        print(f"scenario-1-repricing: {gen_repricing(11 + o, root)} SKUs")
+    if "2" in want:
+        print(f"scenario-2-replenishment: {gen_replenishment(23 + o, root)} SKUs")
+    if "3" in want:
+        print(f"scenario-3-listings: {gen_listings(37 + o, root)} products")
